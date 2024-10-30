@@ -8,9 +8,17 @@
 
 ### Download the Training Dataset
 
-To download the training data, run the following command in your terminal:
+### Download the Datasets
 
-```bash
+To download the training and testing data, run the following commands in your terminal:
+
+'''bash
 #!/bin/bash
+# Download the training data
 kaggle datasets download romeo62/robotics-1-data-train
+
+
+# Download the testing data
+kaggle datasets download romeo62/robotics-1-data-test
+
 
