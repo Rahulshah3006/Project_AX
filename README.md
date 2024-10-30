@@ -6,10 +6,11 @@
 - Live demo is available at https://youtu.be/_-LWYWKpofo?si=ycOfzNEinyq5OUwG
 
 
-# Datasets 
+### Download the Training Dataset
 
-- Train :
-'''
+To download the training data, run the following command in your terminal:
+
+```bash
 #!/bin/bash
 kaggle datasets download romeo62/robotics-1-data-train
-'''
+
