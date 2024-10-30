@@ -8,7 +8,7 @@
 
 ### Download the Datasets
 
-To download the training and testing data, run the following commands in your terminal:
+To download the training and testing data, run the following commands in your VScode / colab block:
 
 ```bash
 # Download the training data
