@@ -12,10 +12,10 @@ To download the training and testing data, run the following commands in your te
 
 ```bash
 # Download the training data
-kaggle datasets download romeo62/robotics-1-data-train
+!kaggle datasets download romeo62/robotics-1-data-train
 
 # Download the testing data
-kaggle datasets download romeo62/robotics-2-data-val
+!kaggle datasets download romeo62/robotics-2-data-val
 
 
 
