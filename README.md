@@ -4,3 +4,12 @@
 - Also, by the end of day I have alos cretedmy own CNN and tried with that which  also came in handy but would like to go wtih pretrinied model for accurate result while realtime detection.
 - Done at USI ( Universita Della Svizzeria italiana - Switzerland )
 - Live demo is available at https://youtu.be/_-LWYWKpofo?si=ycOfzNEinyq5OUwG
+
+
+# Datasets 
+
+- Train :
+'''
+#!/bin/bash
+kaggle datasets download romeo62/robotics-1-data-train
+'''
